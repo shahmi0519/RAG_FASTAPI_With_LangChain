@@ -223,5 +223,5 @@ MIT License
 
 ## Author
 
-Your Name – [GitHub Profile](github.com/shahmi0519)
+A.J.Ahamed Shahmi – [GitHub Profile](https://github.com/shahmi0519)
 
