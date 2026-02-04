@@ -79,8 +79,6 @@ Create a `.env` file in the root:
 GOOGLE_API_KEY=your_google_gemini_api_key_here
 ```
 
-> **Do not commit `.env`** — keep your API keys private.
-
 ---
 
 ### 5. Add documents
@@ -225,5 +223,5 @@ MIT License
 
 ## Author
 
-Your Name – [GitHub Profile](https://github.com/your-username)
+Your Name – [GitHub Profile](github.com/shahmi0519)
 
